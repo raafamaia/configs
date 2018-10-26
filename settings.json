@@ -1,0 +1,54 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.minimap.enabled": true,
+  "editor.lineNumbers": "relative",
+  "window.zoomLevel": 0,
+  //"vim.disableAnnoyingNeovimMessage": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "vsicons.projectDetection.autoReload": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.tabSize": 4,
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": true,
+    "suppressResultsExplorerNotice": false,
+    "suppressShowKeyBindingsNotice": true,
+    "suppressUpdateNotice": false,
+    "suppressWelcomeNotice": true
+  },
+  "editor.codeLens": false,
+  "gitlens.keymap": "alternate",
+  "workbench.colorTheme": "Palenight Theme",
+  "prettier.singleQuote": true,
+  "files.autoSaveDelay": 100,
+  "editor.formatOnSave": true,
+  "terminal.external.osxExec": "iTerm.app",
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Fira Code",
+  "terminal.integrated.shell.osx": "zsh",
+  "bracketPairColorizer.consecutivePairColors": [
+    "()",
+    "[]",
+    "{}",
+    [
+      "White",
+      "Gray",
+      "Orchid"
+    ],
+    "Red"
+  ],
+  "bracketPairColorizer.activeScopeCSS": [
+    "borderStyle : solid",
+    "borderWidth : 1px",
+    "borderColor : {color}; opacity: 0.5",
+  ],
+  "editor.matchBrackets": false,
+  "bracketPairColorizer.showVerticalScopeLine": true,
+  "bracketPairColorizer.showHorizontalScopeLine": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
